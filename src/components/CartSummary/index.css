@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.summary-heading {
+  font-family: 'Roboto';
+  font-size: 23px;
+  color: #616e7c;
+  margin-bottom: 0px;
+}
+
+.total-bill {
+  font-size: 25px;
+  color: #000000;
+}
+
+.item-length {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #616e7c;
+  margin-top: 2px;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  height: 45px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  width: 250px;
+}
+
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
